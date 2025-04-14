@@ -129,8 +129,10 @@
 
 ### Things to do:<br> 
 
-  - (Fixed) ~~Fix Parallex effect mechanics to not render out the visible window~~
   - Add Hitbox mechanics
   - Add Health mechanics
+  
+### Notes:<br>
+
   - Don't worry adding a bot opponent for now, just focus on the list above
   - Learn About Shaders too to add cool effects but only do that when the game is finished
